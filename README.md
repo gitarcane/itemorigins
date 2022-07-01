@@ -5,10 +5,10 @@
 # **What it does**
 This mod shows if an item has been duped or reported as scammed!
 
-It shows up in the item's lore as one of the following;
+**It shows up in the item's lore as one of the following;**
 
 **Origin:**
-if the origin is blank it means it was crafted or obtained legitimately.
+If the origin is blank it means it was crafted or obtained legitimately.
 
 **Origin: Duped**
 If the origin says "Duped" it means that another item has the same UUID as the highlighted item meaning it has been duped.
