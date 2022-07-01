@@ -29,6 +29,7 @@ If the origin says "Scammed" it means the item has been reported and verified as
 
 # **How to use:**
 /dupechecker to toggle the mod on and off.
+
 /reload to reload the uuid's of items.
 
 
