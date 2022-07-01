@@ -34,4 +34,12 @@ If the origin says "Scammed" it means the item has been reported and verified as
 
 
 # **Troubleshooting**
+
+**Commands not working:**
 You must load into hypixel then close minecraft for 20 minutes!
+
+**Minecraft crashing on load:**
+Remove your other mods and make sure your on forge 1.8.9.
+
+
+This mod doesn't work with NEU (NotEnoughUpdates) installed.
