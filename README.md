@@ -2,7 +2,7 @@
 **A skyblock mod that shows the origins of skyblock items.**
 
 
-# **What it does**
+# **How it works:**
 This mod shows if an item has been duped or reported as scammed!
 
 **It shows up in the item's lore as one of the following;**
@@ -31,6 +31,10 @@ If the origin says "Scammed" it means the item has been reported and verified as
 /dupechecker to toggle the mod on and off.
 
 /reload to reload the uuid's of items.
+
+# **Is this mod safe?**
+
+This mod is 100% safe, if your sketched out about the mod, the source is available above or you can use jdgui or virustotal to check the mod for viruses or rats!
 
 
 # **Troubleshooting**
